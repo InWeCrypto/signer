@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "9X1/hLR+WoHu3Vg6SDKF6W6Rjm4=",
+			"path": "github.com/Sirupsen/logrus",
+			"revision": "7dd06bf38e1e13df288d471a57d5adbac106be9e",
+			"revisionTime": "2017-06-30T00:54:20Z"
+		},
+		{
+			"checksumSHA1": "ZQ11UC3EKMlN7el/VItyDyIgcUw=",
+			"path": "github.com/goany/slf4go",
+			"revision": "8d74788de0625205760533b745d2279ceb9f3f8b",
+			"revisionTime": "2017-06-30T09:27:27Z"
+		}
+	],
+	"rootPath": "github.com/goany/logrus"
+}

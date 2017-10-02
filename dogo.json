@@ -1,0 +1,15 @@
+{
+    "WorkingDir": "{GOPATH}/src/goany",
+    "SourceDir": [
+        "{GOPATH}/src/goany"
+    ],
+    "SourceExt": [
+        ".c",
+        ".cpp",
+        ".go",
+        ".h"
+    ],
+    "BuildCmd": "",
+    "RunCmd": "go test ./...",
+    "Decreasing": 1
+}
